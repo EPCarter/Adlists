@@ -2106,10 +2106,13 @@ https://raw.githubusercontent.com/mtxadmin/ublock/master/hosts/_all_bets_are_off
 https://raw.githubusercontent.com/mullvad/dns-blocklists/main/files/social
 https://raw.githubusercontent.com/mullvad/dns-blocklists/main/files/tracker
 https://raw.githubusercontent.com/mullvad/dns-blocklists/main/lists/doh/adblock/frellwits-swedish-hosts-file
+https://raw.githubusercontent.com/mullvad/dns-blocklists/main/lists/doh/privacy/mullvad-tracker-blocklist
 https://raw.githubusercontent.com/mullvad/dns-blocklists/main/lists/doh/privacy/telemetry-apple
 https://raw.githubusercontent.com/mullvad/dns-blocklists/main/lists/doh/privacy/telemetry-samsung
 https://raw.githubusercontent.com/mullvad/dns-blocklists/main/lists/doh/privacy/telemetry-windows
 https://raw.githubusercontent.com/mullvad/dns-blocklists/main/lists/doh/privacy/telemetry-xiaomi
+https://raw.githubusercontent.com/mullvad/dns-blocklists/main/lists/doh/social/mullvad-social-blocklist
+https://raw.githubusercontent.com/mullvad/dns-blocklists/main/lists/relay/adblock/AdguardDNS
 https://raw.githubusercontent.com/mullvad/dns-blocklists/main/lists/relay/adblock/frellwits-swedish-hosts-file
 https://raw.githubusercontent.com/multiverse2011/adawaylist-jp/master/hosts
 https://raw.githubusercontent.com/nabble/semalt-blocker/master/domains/blocked
@@ -2422,6 +2425,7 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telem
 https://raw.githubusercontent.com/RPiList/specials/master/dev/Exodus-List
 https://raw.githubusercontent.com/rto/phased-array/master/phased_array_blocklist.txt
 https://raw.githubusercontent.com/ruvelro/Spotihosts/master/spotihosts.sh
+https://raw.githubusercontent.com/rzsykzmxpxzasqxtyxlveeanfu/pi-hole-blacklist/master/blacklist.txt
 https://raw.githubusercontent.com/Saeviome/Sae/master/ADK.txt
 https://raw.githubusercontent.com/SanderGit/adblock/master/adblock.txt
 https://raw.githubusercontent.com/saurane/Turkish-Blocklist/master/Blocklist/domains.txt
